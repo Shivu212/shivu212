@@ -4,14 +4,8 @@
   GitHub Profile README for Shivu212
   Replace placeholder links with your actual profiles and repositories.
 -->
-<div align="center">
-  <img src="./assets/developer-banner.png"
-       alt="Shivu212 Developer Banner"
-       width="100%" />
 
-  <h2>Building the future, one line at a time.</h2>
-  <p>Web Development | Python | AI/ML</p>
-</div>
+  
 
 <div align="center">
 
